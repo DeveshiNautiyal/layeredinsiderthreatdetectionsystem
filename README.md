@@ -2,8 +2,7 @@
 
 A production-grade, AI-powered insider threat detection system that combines behavioral analytics, meta-learning, and adversarial evasion resilience to identify malicious insider activity in real time.
 
-Live Demo: https://threat-dashboard-integrated.vercel.app
-
+Live Demo: https://threat-dashboard-integrated-qxbdp98dv.vercel.app/
 GitHub: https://github.com/DeveshiNautiyal/layeredinsiderthreatdetectionsystem
 
 ---
